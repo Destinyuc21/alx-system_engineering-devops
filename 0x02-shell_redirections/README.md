@@ -1,1 +1,1 @@
- a script that displays the content of the /etc/passwd and /etc/hosts.
+ a script that displays a confused smiley "(Ôo)'.
